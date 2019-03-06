@@ -17,3 +17,11 @@ At the same time, one can find the data-generator in the file **ImgGenerator.py*
 We can absolutely change the standard deviation (scale of the gaussian noise) and the number of shape deformation in the code
 
 
+## A brief comparison of the performance of RW and SegNet
+<div align="center">
+    <img src="SegNet/Result/original_noisy.png", width="200">
+    <img src="SegNet/Result/0005.png", width="200">
+    <img src="SegNet/Result/random_walker_beta%3D90.png", width="200">
+    <img src="SegNet/Result/Segnet.png", width="200">
+</div>
+From left to right: the original image to be segmented, ground truth label, result by ```Random Walker``` and ```SegNet``` 
