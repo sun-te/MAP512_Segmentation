@@ -1,4 +1,4 @@
-# MAP512_Segmentation
+# MAP512 Segmentation
 Theses are codes for a short project during a class MAP512 at Ecole polytechnique. 2019, Second term
 
 ## Random Walker
