@@ -1,0 +1,10 @@
+/Seg/test/0000.png /Seg/testannot/0000.png
+/Seg/test/0001.png /Seg/testannot/0001.png
+/Seg/test/0002.png /Seg/testannot/0002.png
+/Seg/test/0003.png /Seg/testannot/0003.png
+/Seg/test/0004.png /Seg/testannot/0004.png
+/Seg/test/0005.png /Seg/testannot/0005.png
+/Seg/test/0006.png /Seg/testannot/0006.png
+/Seg/test/0007.png /Seg/testannot/0007.png
+/Seg/test/0008.png /Seg/testannot/0008.png
+/Seg/test/0009.png /Seg/testannot/0009.png

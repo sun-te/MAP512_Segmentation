@@ -1,0 +1,5 @@
+/Seg/val/0000.png /Seg/valannot/0000.png
+/Seg/val/0001.png /Seg/valannot/0001.png
+/Seg/val/0002.png /Seg/valannot/0002.png
+/Seg/val/0003.png /Seg/valannot/0003.png
+/Seg/val/0004.png /Seg/valannot/0004.png
